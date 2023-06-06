@@ -9,7 +9,7 @@ permalink: /
 2019年5月18日“中国西部光资源与地球环境研究中心”（简称“光资环”）正式挂牌。该中心由物理学院牵头，邀请徐红星院士、王恩哥院士联合创建，重点培育和发展光学技术应用、光资源利用、新型光学材料（光学高分子薄膜材料）等交叉学科方向，布局产学研三位一体，以解决国家卡脖子问题为最终目标。[(更多研究方向信息)]({{ site.url }}{{ site.baseurl }}/research)
 
 
- **欢迎对光学/声学/凝聚态物理/材料学感兴趣的学生（本科生、硕士生和博士生）加入团队！** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ **欢迎对光学/声学/凝聚态物理/材料学感兴趣的本科生、硕士生和博士生加入团队！** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
