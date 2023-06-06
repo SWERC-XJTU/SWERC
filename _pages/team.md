@@ -80,7 +80,7 @@ permalink: /team/
 
 
 
-### 研究生
+### 学生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
