@@ -15,15 +15,26 @@ permalink: /research/
 
 以下是我们目前从事的部分研究课题：
 
-### 光谱精准调控
-#### 微纳光学结构、光子定向传输
+### 微纳光子学
+#### 微纳光学结构、光子定向传输机制、纳光薄膜规模化制备
 
-To be updated
+系统研究了利用微纳光学结构的光子自回收与光传输调控特性实现对荧光光子的定向发射 (Nature Food 2021,2,434(封面论文;研究成果被Nature Food,Chemical & Engineering News,Hortidaily等转载和报道);Optics Express 2022,30,4642)。
 
-### 光化学转换
-#### 光合作用改良
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
 
-To be updated
+### 光资源应用
+#### 高效太阳能源转换
+
+深入研究了基于被动式光质管理和光子定向传输对微藻等光合作用生物生物质积累的改善(Advanced Energy Materials 2023,doi: aenm.202204393(研究工作被Advanced Science News报道);Nano Convergence 2022,9:36)
+
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic2-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
+
+### 轻质高性能光学薄膜
+#### 深入研究取向聚合物微观结构-宏观性质相互关系
+
+系统研究了高取向聚合物微观结构-宏观性质相互关系，实现了轻质高模量高强度透明光学薄膜的制备(ACS Applied Materials & Interfaces 2016,8,17549;Polymer 2018,153,354;Langmuir 2017,33,14592)。
+
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic3-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
 
 ### 人工结构中的声场调控
 #### 声学/弹性超材料、声子晶体、准周期结构中波模态的拓扑传输、光机械晶体
