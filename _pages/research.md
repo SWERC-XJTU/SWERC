@@ -19,7 +19,7 @@ permalink: /research/
 #### 微纳光学结构、光子定向传输机制、纳光薄膜规模化制备
 
 系统研究了利用微纳光学结构的光子自回收与光传输调控特性实现对荧光光子的定向发射 (Nature Food 2021,2,434(封面论文;研究成果被Nature Food,Chemical & Engineering News,Hortidaily等转载和报道);Optics Express 2022,30,4642)。
-![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Lihua.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### 光资源应用
 #### 高效太阳能源转换
