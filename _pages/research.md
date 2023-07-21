@@ -25,13 +25,13 @@ permalink: /research/
 #### 高效太阳能源转换
 
 深入研究了基于被动式光质管理和光子定向传输对微藻等光合作用生物生物质积累的改善(Advanced Energy Materials 2023,doi: aenm.202204393(研究工作被Advanced Science News报道);Nano Convergence 2022,9:36)
-![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic2-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic2-Lihua.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### 轻质高性能光学薄膜
 #### 深入研究取向聚合物微观结构-宏观性质相互关系
 
 系统研究了高取向聚合物微观结构-宏观性质相互关系，实现了轻质高模量高强度透明光学薄膜的制备(ACS Applied Materials & Interfaces 2016,8,17549;Polymer 2018,153,354;Langmuir 2017,33,14592)。
-![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic3-Lihua.png){: style="width: 100%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic3-Lihua.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### 人工结构中的声场调控
 #### 声学/弹性超材料、声子晶体、准周期结构中波模态的拓扑传输、光机械晶体
