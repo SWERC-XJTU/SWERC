@@ -13,7 +13,7 @@ permalink: /research/
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_research/summary.png){: style="width: 100%; float: center; margin: 0px"}
 
 
-以下是我们目前从事的部分研究课题：
+### 以下是我们目前从事的部分研究课题：
 
 ### 微纳光子学
 #### 微纳光学结构、光子定向传输机制、纳光薄膜规模化制备
