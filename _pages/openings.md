@@ -56,7 +56,7 @@ We especially welcome postdocs with fellowships. I'd be happy to support you, al
 
 
 ### 4.访问学者/学生
-团队欢迎来自国内外团队的合作，期待各位老师学生们的交流访问！
+  团队欢迎来自国内外团队的合作，期待各位老师学生们的交流访问！
 
 <!-- 
 <figure>
